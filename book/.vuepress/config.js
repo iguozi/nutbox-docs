@@ -4,7 +4,8 @@ module.exports = {
   themeConfig: {
     sidebar: {
       '/': [
-        'intro'
+        'nutbox.dao'
+        'nutbox.dapp'
       ]
     },
     displayAllHeaders: true,
